@@ -1,0 +1,4 @@
+museumcoin
+==========
+
+altcoin
